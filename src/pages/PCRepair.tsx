@@ -3,7 +3,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Monitor, Cpu, HardDrive, Zap, Fan, Motherboard } from 'lucide-react';
+import { Monitor, Cpu, HardDrive, Zap, Fan, Clapperboard as Motherboard } from 'lucide-react';
 
 const pcServices = [
   {
